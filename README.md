@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nzy129
+- 👋 Hi, I’m Zheyu Ni, Ph.D. candidate in the Ohio State University.
 - 👀 I’m interested in emipirical industrial organization and micro theory. 
 - 🌱 Some ongoing research on airline industry and coffee industry. 
 - 💞️ I’m looking to collaborate on two sided marekts, common ownership, vertical market structure.  
