@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zheyu Ni, Ph.D. candidate at the Ohio State University.
+- 👋 Hi, I’m Zheyu Ni, Ph.D. candidate in Economics at the Ohio State University.
 - 👀 I’m interested in empirical industrial organization and micro theory. 
 - ✨ Current research on bargaining in two-sided markets incorporating cross-network externality and bargaining externality. 
 - 🌱 Some ongoing research on the airline industry and the coffee industry. 
