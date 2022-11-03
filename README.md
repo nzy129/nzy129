@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Zheyu Ni, Ph.D. candidate in the Ohio State University.
-- 👀 I’m interested in emipirical industrial organization and micro theory. 
-- 🌱 Some ongoing research on airline industry and coffee industry. 
-- 💞️ I’m looking to collaborate on two sided marekts, common ownership, vertical market structure.  
+- 👋 Hi, I’m Zheyu Ni, Ph.D. candidate at the Ohio State University.
+- 👀 I’m interested in empirical industrial organization and micro theory. 
+- ✨ Current research on bargaining in two-sided markets incorporating cross-network externality and bargaining externality. 
+- 🌱 Some ongoing research on the airline industry and the coffee industry. 
+- 💞️ I’m looking to collaborate on two-sided markets, nonlinear price competition, second price discrimination, dynamic pricing, common ownership, and vertical market structure.  
  
 
 <!---
