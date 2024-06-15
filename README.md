@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zheyu Ni, a Ph.D. candidate in Economics at the Ohio State University.
+- 👋 Hi, I’m Zheyu Ni, an Economist at Digonex, designing dynamic pricing algorithms. I received my Ph.D. in Economics at The Ohio State University in May 2024.
 - 👀 I’m interested in empirical industrial organization and micro theory. 
 - ✨ Current research on 1. Vertical integration in two-sided markets. 2. Competition and price discrimination.
 - 🌱 Some ongoing research on the airline industry, coffee industry, and short-term rental markets. 
